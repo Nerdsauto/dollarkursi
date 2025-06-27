@@ -6,8 +6,8 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-BOT_TOKEN = os.getenv("BOT_TOKEN")
-CHANNEL_ID = os.getenv("CHANNEL_ID")
+BOT_TOKEN = os.getenv("6801560559:AAG__a1frsk7FhhAvrDVCXM7bS4e6mtoIZw")
+CHANNEL_ID = os.getenv("https://t.me/Tundizayn")
 
 def get_usd_rate():
     url = "https://cbu.uz/uz/arkhiv-kursov-valyut/json/"
