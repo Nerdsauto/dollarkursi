@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-BOT_TOKEN = os.getenv("6801560559:AAG__a1frsk7FhhAvrDVCXM7bS4e6mtoIZw")
+BOT_TOKEN = os.getenv("6325246368:AAEQ9jXbFIYmtibMtiBaqNP1uxjLrKrO-JE")
 CHANNEL_ID = os.getenv("https://t.me/Tundizayn")
 
 def get_usd_rate():
